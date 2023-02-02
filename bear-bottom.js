@@ -1,4 +1,6 @@
-  (function () { 
+<!-- begin code -->
+<script>
+  (function () {
     var lib = lib || {};
     var cjs = createjs || {};
     var ss = ss || {};
@@ -870,3 +872,5 @@
 
     init();
   })();
+</script>
+<!-- end code -->
