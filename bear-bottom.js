@@ -1,4 +1,4 @@
-  (function () {
+  (function () { 
     var lib = lib || {};
     var cjs = createjs || {};
     var ss = ss || {};
